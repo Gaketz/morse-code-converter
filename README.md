@@ -1,6 +1,3 @@
-Certainly! To create a Markdown (.md) file for your GitHub project, you can add a README.md file that provides information about your Morse Code Converter application. Below is a simple template you can use:
-
-```markdown
 # Morse Code Converter
 
 ## Description
@@ -52,4 +49,3 @@ The Morse Code Converter is a simple Python application that allows users to con
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
